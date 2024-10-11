@@ -18,7 +18,6 @@ We give you free hand to add that they should also have strong data analysis and
 
 [4] Уи гив ю фри хэнд ту эдд зэт зэй шуд олсо хэв стронг дэйта энэлисис энд интерпритейшн скилз, уич а крушл ин зэ модерн ай-ти лэндскейп.
 
----
 # 4
 
 1.

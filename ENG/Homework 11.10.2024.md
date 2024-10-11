@@ -1,12 +1,12 @@
 # 3 
 
-He or she must be able to adapt to new technologies and be prepared to engage in continuous learning throughout their career.
+- He or she must be able to adapt to new technologies and be prepared to engage in continuous learning throughout their career.
 
-Besides that, he or she must have excellent time management skills and, of course, be able to prioritize tasks effectively and meet deadlines.
+- Besides that, he or she must have excellent time management skills and, of course, be able to prioritize tasks effectively and meet deadlines.
 
-He or she must possess high emotional intelligence and be prepared to handle interpersonal relationships judiciously and empathetically.
+- He or she must possess high emotional intelligence and be prepared to handle interpersonal relationships judiciously and empathetically.
 
-We give you free hand to add that they should also have strong data analysis and interpretation skills, which are crucial in the modern IT landscape.
+- We give you free hand to add that they should also have strong data analysis and interpretation skills, which are crucial in the modern IT landscape.
 
 
 

@@ -33,8 +33,6 @@ We give you free hand to add that they should also have strong data analysis and
 
 - Ambition and drive - Gates describes having a bold vision of "a computer on every desk and in every home" that many thought impossible.
 
----
-
 2. It's very challenging but potentially possible for a new company to compete with tech giants today. It would likely need to focus on an emerging technology area not yet dominated by big players, have significant funding, and offer truly innovative products/services.
 
 3. This is a personal question that would depend on one's skills, experience, and ambition. Leading a major tech company requires strong technical knowledge, business acumen, leadership skills, and vision.

@@ -20,7 +20,7 @@ We give you free hand to add that they should also have strong data analysis and
 
 # 4
 
-1.
+1. Q:
 
 - Vision and foresight - Gates and Allen recognized early on that personal computers would become widespread and create huge demand for software. They positioned Microsoft to capitalize on this trend.
 
@@ -37,3 +37,21 @@ We give you free hand to add that they should also have strong data analysis and
 3. This is a personal question that would depend on one's skills, experience, and ambition. Leading a major tech company requires strong technical knowledge, business acumen, leadership skills, and vision.
 
 4. The US government pursued antitrust action against Microsoft in the late 1990s/early 2000s due to concerns about the company's monopoly power, especially in the PC operating system market. Breaking up the company was seen as a way to increase competition in the industry.
+
+
+
+[1] Вижн энд форсайт - Гейтс энд Аллен рекогнайзд ёрли он зэт пёрсонал компьютерз вуд бикам уайдспред энд криэйт хьюдж диманд фор софтвэа. Зэй позишнд Майкрософт ту кэпитэлайз он зис тренд.
+
+[2] Тайминг - Зэй энтерд зэ индастри эт зэ райт тайм, уэн пёрсонал компьютинг воз джаст имёрджинг.
+
+[3] Текникал скилз - Гейтс энд Аллен хэд зэ программинг экспертиз ту криэйт софтвэа фор ёрли ПиСиз.
+
+[4] Адаптэбилити - Майкрософт экспэндид бийонд джаст программинг лэнгвиджиз инту оперэйтинг системз, эпликэйшнз, энд азэр эриаз эз зэ индастри иволвд.
+
+[5] Эмбишн энд драйв - Гейтс дискрайбз хэвинг э болд вижн оф "э компьютер он эври деск энд ин эври хоум" зэт мэни тот импоссибл.
+
+[6] Итс вэри чэлленджинг бат потэншали поссибл фор э нью кампани ту компит виз тек джайэнтс тудэй. Ит вуд лайкли нид ту фокус он эн имёрджинг текнолоджи эриа нот йет доминэйтид бай биг плэйерз, хэв сигнификант фандинг, энд оффер трули инновэйтив продактс/сёрвисиз.
+
+[7] Зис из э пёрсонал квэсчн зэт вуд дипенд он ванс скилз, экспириенс, энд эмбишн. Лидинг э мэйджор тек кампани рикваерз стронг текникал нолидж, бизнес экьюмен, лидершип скилз, энд вижн.
+
+[8] Зэ ЮЭс гавернмент пёрсьюд энтитраст экшн эгэйнст Майкрософт ин зэ лэйт 1990с/ёрли 2000с дью ту консёрнз эбаут зэ кампаниз монополи пауэр, испешали ин зэ ПиСи оперэйтинг систем маркет. Брэйкинг ап зэ кампани воз син эз э вэй ту инкрис компетишн ин зэ индастри.

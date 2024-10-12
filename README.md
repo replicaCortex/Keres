@@ -1,2 +1,4 @@
 # Keres
 Deep into that darkness peering, long I stood there wondering, fearing, Doubting, dreaming dreams no mortal ever dared to dream before; But the silence was unbroken, and the darkness gave no token, And the only word there spoken was the whispered word, «Labs!» This I whispered, and an echo murmured back the word, «Labs!» Merely this, and nothing more...
+
+<div class="tenor-gif-embed" data-postid="27586841" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/americanpsycho-christian-bale-cursed-help-patrickbateman-gif-27586841">Americanpsycho Christian Bale Sticker</a>from <a href="https://tenor.com/search/americanpsycho-stickers">Americanpsycho Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>

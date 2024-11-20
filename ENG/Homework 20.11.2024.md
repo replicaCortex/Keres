@@ -1,0 +1,23 @@
+The story of Microsoft began in 1975 when Paul Allen and I saw an article about a new personal computer called the Altair 8800.
+The Altair was a build-it-yourself kit, which distinguished it from the large computers of that time.
+We immediately realized that the Altair was the beginning of a revolution that would change the world.
+The inexpensive Intel 8080 microprocessor made it possible to create a compact computer.
+The Altair needed software to function properly, which prompted us to create Microsoft.
+We believed that computers would become more accessible, and there would be huge demand for them.
+Over the years, the PC evolved from a hobbyist's toy into an indispensable tool.
+Microsoft became the world's largest software company, with employees in more than 50 countries.
+We realized the dream of "a computer on every desk and in every home."
+Looking back at our achievements over 25 years, I am confident that we will have even more impressive results by our 50th anniversary.
+
+---
+
+История Microsoft началась в 1975 году, когда Пол Аллен и я увидели статью о новом персональном компьютере Altair 8800. (Это введение, задающее контекст всей истории.)
+Altair был набором для сборки, что отличало его от больших компьютеров того времени. (Важная деталь, подчеркивающая новаторство Altair.)
+Мы сразу поняли, что Altair – это начало революции, которая изменит мир. (Ключевая идея, показывающая прозорливость основателей Microsoft.)
+Недорогой микропроцессор Intel 8080 делал возможным создание компактного компьютера. (Техническая деталь, объясняющая, почему Altair был прорывом.)
+Для полноценной работы Altair требовалось программное обеспечение, что и подтолкнуло нас к созданию Microsoft. (Появление мотивации для создания компании.)
+Мы верили, что компьютеры станут доступнее, и на них будет огромный спрос. (Бизнес-прогноз, оказавшийся верным.)
+За годы ПК превратился из игрушки для энтузиастов в незаменимый инструмент. (Эволюция ПК, ставшая основой успеха Microsoft.)
+Microsoft стала крупнейшей в мире компанией-разработчиком ПО, с сотрудниками в более чем 50 странах. (Итог развития компании на момент написания текста.)
+Мы реализовали мечту о "компьютере на каждом столе и в каждом доме". (Ключевое достижение, показывающее влияние Microsoft на мир.)
+Оглядываясь на достижения за 25 лет, я уверен, что к 50-летию у нас будет еще больше впечатляющих результатов. (Взгляд в будущее, демонстрирующий оптимизм и уверенность в дальнейшем развитии.)

@@ -20,7 +20,7 @@ We believed that computers would become more accessible, and there would be huge
 Over the years, the PC evolved from a hobbyist's toy into an indispensable tool.
 Microsoft became the world's largest software company, with employees in more than 50 countries.
 We realized the dream of "a computer on every desk and in every home."
-Looking back at our achievements over 25 years, I am confident that we will have even more impressive results by our 50th anniversary.
+Looking back at our achievements over 25 years, I am confident that we wikll have even more impressive results by our 50th anniversary.
 
 ---
 
